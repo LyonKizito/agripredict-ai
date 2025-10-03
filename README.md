@@ -72,17 +72,15 @@ AgriPredict AI is an **ML-powered decision support tool** that predicts maize yi
 
 ## 📊 Demo
 
-🔗 **[Live Demo – Streamlit Cloud (Coming Soon)]()**  
-
-For now, run locally with the instructions below.  
+🔗 **[Live Demo](https://your-streamlit-app-url.streamlit.app)**  
 
 **Screenshots**  
 
-**Prediction Dashboard**  
-![Dashboard](plots/eda_overview.png)  
+**Exploratory Data Analysis (EDA) Overview**  
+![EDA Overview](screenshots/eda_overview.png)  
 
-**Scenario Analysis**  
-![Scenarios](plots/correlation_matrix.png)  
+**Correlation Matrix**  
+![Correlation Matrix](screenshots/correlation_matrix.png)  
 
 ---
 
